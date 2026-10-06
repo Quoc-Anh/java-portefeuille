@@ -20,5 +20,7 @@ Projet réalisé pendant ma formation Java.
 
 Depuis le dossier exercices :
 
+```bat
 javac *.java
 java BilanSemaine02
+```
