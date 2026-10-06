@@ -24,3 +24,10 @@ Depuis le dossier exercices :
 javac *.java
 java BilanSemaine02
 ```
+## Organisation du projet
+
+- exercices/Action.java : représente une action et ses opérations.
+- exercices/Portefeuille.java : gère la collection d'actions.
+- exercices/BilanSemaine02.java : exécute le bilan pratique.
+- exercices/PremiersObjets.java : présente les premiers objets.
+- exercices/TestPortefeuille.java : vérifie le fonctionnement du portefeuille.
